@@ -5,6 +5,6 @@ numpy
 matplotlib
 seaborn
 plotly
-PyPortfolioOpt
-openpyxl
+PyPortfolioOpt==1.5.5
 scikit-learn
+openpyxl
